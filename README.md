@@ -1,3 +1,3 @@
 # Salut-
-kjkajas
-Param param Pam
+Schimbare
+Param param Stergere
