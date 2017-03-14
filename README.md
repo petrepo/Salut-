@@ -1,3 +1,3 @@
 # Salut-
-Schimbare
-Param param Stergere
+Change
+Param param Delete
